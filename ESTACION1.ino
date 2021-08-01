@@ -42,10 +42,10 @@ PubSubClient client(espClient);
 //**************************************
 const char *mqtt_server = "ioticos.org";
 const int mqtt_port = 1883;
-const char *mqtt_user = "sXoRKv35L5o6m7x";
-const char *mqtt_pass = "2Ho48GIl2qeFc6e";
-char *root_topic_subscribe = "XzblrWRu1CApIWw/Dispositivo1";
-char *root_topic_publish = "XzblrWRu1CApIWw/Dispositivo1";
+const char *mqtt_user = "--------";
+const char *mqtt_pass = "--------";
+char *root_topic_subscribe = "--------";
+char *root_topic_publish = "--------";
 
 //**************************************
 //*********** WIFICONFIG ***************
