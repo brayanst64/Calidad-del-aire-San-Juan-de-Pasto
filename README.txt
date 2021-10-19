@@ -4,11 +4,10 @@ de  15  dias  de  una  red  de calidad del  aire  indicativa, isntalada en
 ciertos sectores de San Juan  de  Pasto,   ademas de  scripts   de matlab,
 donde analisis.m se  obniene  la informacion  estadistica de los   datos y 
 de modelo.m se encuentra el codigo  para  encontrar  un  modelo  Gauss del 
-comportamiento de ciertas variables.
+comportamiento de ciertas variables.Por otra parte en la carpeta "Reportes"
+se encuentran los reporte de las 4 estaciones. 
 
-Por  otra  parte en la carpeta "Reportes" se encuentran los reporte de las 
-4 estaciones. y adicionalmente  se  encuentra el codigo de las cuatro est-
-aciones.
+Y adicionalmente  se  encuentra el codigo de las cuatro estaciones.
 
 Realizado por:
 Brayan Smith Alexander Urbano Diaz
