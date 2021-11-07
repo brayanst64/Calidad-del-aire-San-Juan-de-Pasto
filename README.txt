@@ -7,7 +7,8 @@ de modelo.m se encuentra el codigo  para  encontrar  un  modelo  Gauss del
 comportamiento de ciertas variables.Por otra parte en la carpeta "Reportes"
 se encuentran los reporte de las 4 estaciones. 
 
-Y adicionalmente  se  encuentra el codigo de las cuatro estaciones.
+Y adicionalmente  se  encuentra el codigo de las cuatro estaciones implem-
+tadas en arduino y con el microntrolador ESP32.
 
 Realizado por:
 Brayan Smith Alexander Urbano Diaz
