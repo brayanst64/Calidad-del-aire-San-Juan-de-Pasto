@@ -11,7 +11,7 @@ for i=1: archivos
  eval([v, '=datos;']);
  end
 
-%% Promedio artismetico
+%% Promedio aritmetico
 Promedio_aritmetico=zeros(archivos,9);
 for num =1:4
     eval(['estacion', '=estacion',num2str(num),';']);
